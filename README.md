@@ -4,7 +4,7 @@ Recently, image classification draw attentions of many researchers. The need of 
 
 In this context, we study from an acute insight standpoint the standard clustering models K-means, GMM and Naive Bayes classification  algorithm in order to draw conclusion and underline their limits for such complicated tasks.
 
-To what extent are k-means and GMM efficient ? Why they fail and how to circumvent their weaknesses.
+To what extent are k-means and GMM efficient ? Why they fail and how to circumvent their weaknesses ?
 
 
 Keywords : Unsupervised learning, Dimensionality  reduction, Classification,  Gaussian Mixture Models, K-means, Naive Bayes
